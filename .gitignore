@@ -1,0 +1,7 @@
+data/
+yolov9/
+weights/
+*.pt
+runs/
+.ipynb_checkpoints/
+__pycache__/
